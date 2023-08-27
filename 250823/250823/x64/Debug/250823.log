@@ -1,0 +1,9 @@
+﻿  250823.cpp
+  Employee.cpp
+  Manager.cpp
+  SalaryWorker.cpp
+  Salesman.cpp
+  Worker.cpp
+  Создание кода...
+D:\Study\C++\HW\010923\250823\250823\Manager.cpp(35): warning C4715: Manager::calculateBonus: значение возвращается не при всех путях выполнения
+  250823.vcxproj -> D:\Study\C++\HW\010923\250823\x64\Debug\250823.exe
